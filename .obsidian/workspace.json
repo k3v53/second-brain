@@ -27,7 +27,7 @@
               "state": {
                 "file": "Configuring PipeWire Noise Suppresion.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
