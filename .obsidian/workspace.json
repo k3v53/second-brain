@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "968ae9c1069227e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuring PipeWire Noise Suppresion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Configuring PipeWire Noise Suppresion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Configuring PipeWire Noise Suppresion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Configuring PipeWire Noise Suppresion.md"
               }
             }
           },
@@ -154,14 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9db69fd36e28ccec",
+  "active": "968ae9c1069227e7",
   "lastOpenFiles": [
     "index.md",
+    "Configuring PipeWire Noise Suppresion.md",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
     "Concepts/Other Sources.md",
     "conflict-files-obsidian-git.md",
-    "index.md",
     "Concepts/Advanced/Nix Experimental Features.md",
     "Concepts/Advanced/Flakes.md",
     "Concepts/index.md",
@@ -187,7 +200,6 @@
     "Getting Started/Gamepads on NixOS.md",
     "Concepts/Basics/configuration.nix.md",
     "Investigations",
-    "Concepts/Advanced/Secrets/Secrets Management.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
     "Assets/Misc",
