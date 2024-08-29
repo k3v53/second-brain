@@ -11,12 +11,8 @@
             "id": "bf166c59df86878e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Mint.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98a31ae42b3e362d",
+  "active": "bf166c59df86878e",
   "lastOpenFiles": [
-    "index_es.md",
-    "index.md",
+    "Screenshot test.md",
     "Linux Mint.md",
+    "index.md",
+    "index_es.md",
     "Configuring PipeWire Noise Suppresion.md",
     "Linux Distros.md",
     "Running MS Office on Linux 2024.md",
@@ -196,7 +188,6 @@
     "Investigations/Investigations.md",
     "Getting Started/index.md",
     "quartz/quartz.layout.ts",
-    "Getting Started.md",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
     "quartz/config",
