@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9db69fd36e28ccec",
+            "id": "968ae9c1069227e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "968ae9c1069227e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuring PipeWire Noise Suppresion.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:other",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuring PipeWire Noise Suppresion.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuring PipeWire Noise Suppresion.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuring PipeWire Noise Suppresion.md"
+                "file": "index.md"
               }
             }
           },
@@ -169,8 +156,12 @@
   },
   "active": "968ae9c1069227e7",
   "lastOpenFiles": [
+    "index_es.md",
     "index.md",
+    "Running MS Office on Linux 2024.md",
     "Configuring PipeWire Noise Suppresion.md",
+    "Untitled.canvas",
+    "This Wiki Origin.md",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
     "Concepts/Other Sources.md",
@@ -197,15 +188,12 @@
     "quartz",
     "Concepts/Basics/Nix Store.md",
     "Investigations/Repos With Config Files.md",
-    "Getting Started/Gamepads on NixOS.md",
-    "Concepts/Basics/configuration.nix.md",
     "Investigations",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
     "Assets/Misc",
     "Concepts",
     "Assets",
-    "etc",
-    "Untitled.canvas"
+    "etc"
   ]
 }
