@@ -2,6 +2,7 @@
 title: Welcome To My Brain!
 tags:
   - English
+spanish_post:
 ---
 [[index_es|En Español 🇦🇷]]
 Hello World!
