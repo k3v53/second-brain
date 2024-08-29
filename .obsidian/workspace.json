@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running MS Office on Linux 2024.md",
+                "file": "Linux Mint.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index_es.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running MS Office on Linux 2024.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running MS Office on Linux 2024.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running MS Office on Linux 2024.md"
+                "file": "index.md"
               }
             }
           },
@@ -166,15 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf166c59df86878e",
+  "active": "98a31ae42b3e362d",
   "lastOpenFiles": [
     "index_es.md",
-    "How to Create a Simple Flatpak Package.md",
-    "Untitled.md",
-    "Running MS Office on Linux 2024.md",
-    "This Wiki Origin.md",
     "index.md",
+    "Linux Mint.md",
     "Configuring PipeWire Noise Suppresion.md",
+    "Linux Distros.md",
+    "Running MS Office on Linux 2024.md",
+    "Cool Open Source Projects.md",
+    "How to Create a Simple Flatpak Package.md",
+    "This Wiki Origin.md",
     "Untitled.canvas",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
@@ -194,8 +197,6 @@
     "Getting Started/index.md",
     "quartz/quartz.layout.ts",
     "Getting Started.md",
-    "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
-    "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
     "quartz/config",
