@@ -11,8 +11,12 @@
             "id": "bf166c59df86878e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Terminología Tech/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -38,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98a31ae42b3e362d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +180,11 @@
   },
   "active": "1be889b8047adbeb",
   "lastOpenFiles": [
-    "Terminología Tech",
-    "Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/index.md",
     "index.md",
+    "Terminología Tech/Team Leader (TL).md",
+    "Terminología Tech",
+    "Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Screenshot test.md",
     "Linux Mint.md",
     "index_es.md",
