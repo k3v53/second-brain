@@ -150,12 +150,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89bad3d3fd32291c",
+  "active": "77014fcc5bbcb171",
   "lastOpenFiles": [
     "Terminología Tech/index.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
