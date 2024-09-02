@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f37f348af4b6c0bc",
+  "active": "1be889b8047adbeb",
   "lastOpenFiles": [
     "index_es.md",
     "index.md",

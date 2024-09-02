@@ -6,7 +6,7 @@ tags:
   - Español
 ---
 > [!info]
-> Aquí vamos a hablar brevemente de l
+> Aquí vamos a hablar brevemente de los roles más comunes de los cuáles te encuentras al entrar al mundo tech, iré escribiendo de a poco a medida que vaya viendo la necesidad, si te gustaría colaborar con algún dato es completamente bienvenido y agradecido! [[Como Aportar a la Wiki]].
 
 # Puestos / Roles
 
