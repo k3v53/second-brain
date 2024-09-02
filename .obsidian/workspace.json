@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminología Tech/index.md"
+                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md"
               }
             }
           },
@@ -169,12 +169,14 @@
   },
   "active": "89bad3d3fd32291c",
   "lastOpenFiles": [
+    "Terminología Tech/index.md",
+    "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
+    "HowTo",
     "Terminología Tech/Team Leader (TL).md",
     "Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "This Wiki Origin.md",
     "Screenshot test.md",
     "Linux",
-    "Terminología Tech/index.md",
     "index.md",
     "Terminología Tech",
     "Linux/Linux Mint.md",
@@ -205,7 +207,6 @@
     "Investigations",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
-    "Assets/Misc",
-    "Concepts"
+    "Assets/Misc"
   ]
 }
