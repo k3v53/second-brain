@@ -15,7 +15,7 @@
               "state": {
                 "file": "Linux/How to Create a Simple Flatpak Package.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
