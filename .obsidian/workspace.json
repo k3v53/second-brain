@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89bad3d3fd32291c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
+                "file": "Linux/How to Create a Simple Flatpak Package.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
+                "file": "Linux/How to Create a Simple Flatpak Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
+                "file": "Linux/How to Create a Simple Flatpak Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowTo/How to Create a Toggle List in Obsidian and Markdown.md"
+                "file": "Linux/How to Create a Simple Flatpak Package.md"
               }
             }
           },
@@ -167,17 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77014fcc5bbcb171",
+  "active": "f37f348af4b6c0bc",
   "lastOpenFiles": [
-    "Terminología Tech/index.md",
+    "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
+    "Gaming",
+    "This Wiki Origin.md",
+    "index.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
+    "Terminología Tech/index.md",
     "HowTo",
     "Terminología Tech/Team Leader (TL).md",
-    "Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
-    "This Wiki Origin.md",
     "Screenshot test.md",
     "Linux",
-    "index.md",
     "Terminología Tech",
     "Linux/Linux Mint.md",
     "index_es.md",
@@ -198,7 +186,6 @@
     "Getting Started/Setting up My First Config File.md",
     "Fixes/Fix Nix Store Corruption.md",
     "Problems/NixOS Ping System Error.md",
-    "Fixes/Fixing NixOS Hostname Issue.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
@@ -206,7 +193,6 @@
     "quartz",
     "Investigations",
     "Assets/Misc/Nix Iceberg.png",
-    "Assets/Misc/NixOS Manual App Launcher IMG.png",
-    "Assets/Misc"
+    "Assets/Misc/NixOS Manual App Launcher IMG.png"
   ]
 }
