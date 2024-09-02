@@ -4,6 +4,10 @@ tags:
   - Obsidian
   - Markdown
   - HTML
+aliases:
+  - Toggle List in Obsidian
+  - Toggle List in Markdown
+  - Toggle List in HTML
 ---
 # Simple toggle
 ```html

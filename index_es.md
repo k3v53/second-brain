@@ -2,6 +2,8 @@
 title: ¡Bienvenido A Mi Cerebro!
 tags:
   - Español
+aliases:
+  - ¡Bienvenido A Mi Cerebro!
 ---
 ¡Hola Mundo!
 Este es un sitio web simple creado como un lugar central para guardar información aleatoria sobre computadoras, también contiene información en inglés.

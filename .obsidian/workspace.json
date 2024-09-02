@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/How to Create a Simple Flatpak Package.md",
+                "file": "Terminología Tech/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/How to Create a Simple Flatpak Package.md",
+                "file": "Terminología Tech/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/How to Create a Simple Flatpak Package.md",
+                "file": "Terminología Tech/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/How to Create a Simple Flatpak Package.md"
+                "file": "Terminología Tech/index.md"
               }
             }
           },
@@ -156,24 +157,25 @@
   },
   "active": "f37f348af4b6c0bc",
   "lastOpenFiles": [
-    "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
-    "Gaming",
-    "This Wiki Origin.md",
+    "index_es.md",
     "index.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
-    "Terminología Tech/index.md",
-    "HowTo",
+    "HowTo/Purpose for the Alias Property on Obsidian.md",
+    "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/Team Leader (TL).md",
+    "Terminología Tech/index.md",
+    "Linux/How to Create a Simple Flatpak Package.md",
+    "Gaming",
+    "This Wiki Origin.md",
+    "HowTo",
     "Screenshot test.md",
     "Linux",
     "Terminología Tech",
     "Linux/Linux Mint.md",
-    "index_es.md",
     "Linux/Configuring PipeWire Noise Suppresion.md",
     "Linux/Linux Distros.md",
     "Linux/Running MS Office on Linux 2024.md",
     "Linux/Cool Open Source Projects.md",
-    "Linux/How to Create a Simple Flatpak Package.md",
     "Untitled.canvas",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
