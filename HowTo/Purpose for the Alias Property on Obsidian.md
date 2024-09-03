@@ -3,6 +3,8 @@ tags:
   - English
   - Obsidian
   - Properties
+aliases:
+  - Aliases on Obsidian
 ---
 They are useful when you want to add different names to the same note, when you do it, at the time of adding a link it appears as the main name, and also the aliases, so you can link with the most according name based on the note context.
 

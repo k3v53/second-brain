@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
+                "file": "Linux/Cool Open Source Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
+                "file": "Linux/Cool Open Source Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
+                "file": "Linux/Cool Open Source Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md"
+                "file": "Linux/Cool Open Source Projects.md"
               }
             }
           },
@@ -155,26 +155,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f37f348af4b6c0bc",
+  "active": "1be889b8047adbeb",
   "lastOpenFiles": [
+    "Misc",
+    "Linux/Configuring PipeWire Noise Suppresion.md",
+    "HowTo/Purpose for the Alias Property on Obsidian.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
-    "HowTo/Purpose for the Alias Property on Obsidian.md",
     "conflict-files-obsidian-git.md",
     "Terminología Tech/index.md",
     "index_es.md",
     "index.md",
-    "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
+    "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/Team Leader (TL).md",
     "Linux/How to Create a Simple Flatpak Package.md",
-    "Gaming",
+    "Misc/Gaming",
     "This Wiki Origin.md",
     "HowTo",
     "Screenshot test.md",
     "Linux",
     "Terminología Tech",
     "Linux/Linux Mint.md",
-    "Linux/Configuring PipeWire Noise Suppresion.md",
     "Linux/Linux Distros.md",
     "Linux/Running MS Office on Linux 2024.md",
     "Linux/Cool Open Source Projects.md",
@@ -187,7 +188,6 @@
     "Concepts/index.md",
     "Problems/index.md",
     "Getting Started/Setting up My First Config File.md",
-    "Fixes/Fix Nix Store Corruption.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
