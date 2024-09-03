@@ -34,7 +34,7 @@
     "customStatuses": [
       {
         "symbol": "/",
-        "name": "In Progress",
+        "name": "Investigating",
         "nextStatusSymbol": "x",
         "availableAsCommand": true,
         "type": "IN_PROGRESS"
