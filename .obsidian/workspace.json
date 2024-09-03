@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
+                "file": "This Wiki Origin.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
+                "file": "This Wiki Origin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
+                "file": "This Wiki Origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HowTo/How to Create a Callout Block on Obsidian.md"
+                "file": "This Wiki Origin.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "bf166c59df86878e",
   "lastOpenFiles": [
+    "index.md",
+    "index_es.md",
+    "HowTo/How to Create a Callout Block on Obsidian.md",
     "Terminología Tech/index.md",
     "Terminología Tech/Team Leader (TL).md",
     "Terminología Tech",
@@ -180,14 +183,11 @@
     "Linux",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
-    "HowTo/How to Create a Callout Block on Obsidian.md",
     "HowTo",
     "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Gaming",
     "Screenshot test.md",
     "Linux Mint.md",
-    "index.md",
-    "index_es.md",
     "Configuring PipeWire Noise Suppresion.md",
     "Linux Distros.md",
     "Running MS Office on Linux 2024.md",
