@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d039143c8258c51a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Linux Mint Opinion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c96050dae5e53cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminología Tech/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3c6e231231ead0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminología Tech/Roles de Desarrollo de Software.md",
+                "file": "Misc/Como Aportar a la Wiki.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminología Tech/Roles de Desarrollo de Software.md",
+                "file": "Misc/Como Aportar a la Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminología Tech/Roles de Desarrollo de Software.md",
+                "file": "Misc/Como Aportar a la Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminología Tech/Roles de Desarrollo de Software.md"
+                "file": "Misc/Como Aportar a la Wiki.md"
               }
             }
           },
@@ -163,6 +135,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "419baa996eb86b06",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -184,21 +164,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af8327759b4d9d5a",
+  "active": "8eba09bf6a1bdc72",
   "lastOpenFiles": [
     "Terminología Tech/index.md",
+    "Misc/Como Aportar a la Wiki.md",
+    "Editor DashBoard.md",
+    "HowTo/How to Create a Callout Block on Obsidian.md",
     "Terminología Tech/Roles de Desarrollo de Software.md",
+    "Linux/Linux Mint Opinion.md",
+    "Linux/Garuda Linux Opinion.md",
+    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
     "Terminología Tech/Team Leader (TL).md",
     "Linux/Running MS Office on Linux 2024.md",
     "Linux/Running iVMS-4200 On Linux.md",
-    "Linux/Linux Mint Opinion.md",
     "Linux/Linux Distros.md",
-    "Linux/Garuda Linux Opinion.md",
     "Linux/How to Create a Simple Flatpak Package.md",
-    "Editor DashBoard.md",
     "This Wiki Origin.md",
-    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
-    "HowTo/How to Create a Callout Block on Obsidian.md",
     "index.md",
     "Templates/Spanish Page.md",
     "index_es.md",
@@ -218,7 +199,6 @@
     "Linux",
     "Terminología Tech",
     "Untitled.canvas",
-    "README.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
