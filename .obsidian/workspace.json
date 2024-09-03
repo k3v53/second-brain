@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Cool Open Source Projects.md",
+                "file": "Linux/How to Create a Simple Flatpak Package.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Cool Open Source Projects.md",
+                "file": "Linux/How to Create a Simple Flatpak Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Cool Open Source Projects.md",
+                "file": "Linux/How to Create a Simple Flatpak Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Cool Open Source Projects.md"
+                "file": "Linux/How to Create a Simple Flatpak Package.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be889b8047adbeb",
+  "active": "f37f348af4b6c0bc",
   "lastOpenFiles": [
+    "Linux/Cool Open Source Projects.md",
     "Misc",
     "Linux/Configuring PipeWire Noise Suppresion.md",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
@@ -178,7 +179,6 @@
     "Linux/Linux Mint.md",
     "Linux/Linux Distros.md",
     "Linux/Running MS Office on Linux 2024.md",
-    "Linux/Cool Open Source Projects.md",
     "Untitled.canvas",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
@@ -193,7 +193,6 @@
     "quartz/quartz.config.ts",
     "quartz/config",
     "quartz",
-    "Investigations",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png"
   ]
