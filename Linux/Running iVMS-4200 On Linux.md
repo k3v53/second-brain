@@ -1,5 +1,6 @@
 ---
 tags:
+  - English
   - Linux
   - Wine
   - Lutris
