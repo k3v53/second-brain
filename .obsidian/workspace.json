@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +157,10 @@
   },
   "active": "f37f348af4b6c0bc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
-    "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
+    "conflict-files-obsidian-git.md",
     "Terminología Tech/index.md",
     "index_es.md",
     "index.md",
