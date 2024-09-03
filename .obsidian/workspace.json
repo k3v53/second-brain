@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,8 +156,9 @@
   },
   "active": "f37f348af4b6c0bc",
   "lastOpenFiles": [
-    "HowTo/Purpose for the Alias Property on Obsidian.md",
+    "conflict-files-obsidian-git.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
+    "HowTo/Purpose for the Alias Property on Obsidian.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
     "Terminología Tech/index.md",
     "index_es.md",
@@ -180,7 +181,6 @@
     "README.md",
     "Fixes/Installing Nix Gaming.md",
     "Concepts/Other Sources.md",
-    "conflict-files-obsidian-git.md",
     "Concepts/Advanced/Nix Experimental Features.md",
     "Concepts/Advanced/Flakes.md",
     "Concepts/index.md",
