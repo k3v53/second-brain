@@ -1,7 +1,7 @@
 ---
 title: 
 aliases:
-  - Misc/Quiero Aportar
+  - Misc/Quiero-Aportar
 tags:
   - Español
 draft: false
