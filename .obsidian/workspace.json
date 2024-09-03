@@ -4,48 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0fc0dbcb594551",
+        "id": "42a0adebbca66d94",
         "type": "tabs",
         "children": [
           {
-            "id": "f37f348af4b6c0bc",
+            "id": "d039143c8258c51a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Running iVMS-4200 On Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d215cc8b27cc8fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
+                "file": "Editor DashBoard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea8b7c826a141bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "This Wiki Origin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
+                "file": "Editor DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
+                "file": "Editor DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md"
+                "file": "Editor DashBoard.md"
               }
             }
           },
@@ -181,27 +157,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d215cc8b27cc8fbc",
+  "active": "d039143c8258c51a",
   "lastOpenFiles": [
-    "Linux/Running iVMS-4200 On Linux.md",
-    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
     "This Wiki Origin.md",
+    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
+    "HowTo/How to Create a Callout Block on Obsidian.md",
+    "Editor DashBoard.md",
+    "index.md",
+    "Linux/Running MS Office on Linux 2024.md",
+    "Templates/Spanish Page.md",
+    "Linux/Linux Mint.md",
+    "index_es.md",
+    "Templates/English Page.md",
+    "Linux/Configuring PipeWire Noise Suppresion.md",
+    "Linux/Running iVMS-4200 On Linux.md",
     "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/index.md",
     "Terminología Tech/Team Leader (TL).md",
-    "index_es.md",
-    "index.md",
-    "Editor DashBoard.md",
-    "Templates/Spanish Page.md",
-    "Templates/English Page.md",
     "Templates",
     "Linux/Untitled.md",
-    "HowTo/How to Create a Callout Block on Obsidian.md",
     "Linux/How to Create a Simple Flatpak Package.md",
-    "Linux/Running MS Office on Linux 2024.md",
     "Linux/Cool Open Source Projects.md",
     "Misc",
-    "Linux/Configuring PipeWire Noise Suppresion.md",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
     "conflict-files-obsidian-git.md",
@@ -210,7 +187,6 @@
     "Screenshot test.md",
     "Linux",
     "Terminología Tech",
-    "Linux/Linux Mint.md",
     "Linux/Linux Distros.md",
     "Untitled.canvas",
     "README.md",

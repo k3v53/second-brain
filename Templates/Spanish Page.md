@@ -3,6 +3,6 @@ title:
 aliases: 
 tags:
   - Español
-finished: false
+draft: false
 status: Backlog
 ---

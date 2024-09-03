@@ -4,7 +4,8 @@ tags:
   - Linux
   - Linux-Mint
   - Opinionated
-finished: true
+draft: false
+status: PseudoFinished
 ---
 Linux mint was one of the first [[Linux Distros]] that I've really enjoyed using, is easy to use, easy to install and easy to understand, The only downside I've could find is the UI, Cinnamon is not very _Aesthetic_ in my opinion and feels a little old.
 # Advantages

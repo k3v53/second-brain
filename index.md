@@ -5,7 +5,6 @@ tags:
 spanish_post: index_es
 aliases:
   - Welcome To My Brain!
-finished: true
 status: Finished
 ---
 [[index_es|En Español 🇦🇷]]

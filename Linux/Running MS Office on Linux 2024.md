@@ -4,7 +4,7 @@ tags:
   - Linux
   - Year-2024
 status: Backlog
-finished: false
+draft: false
 ---
 
 > [!TODO]

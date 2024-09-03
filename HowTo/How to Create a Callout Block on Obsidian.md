@@ -5,7 +5,7 @@ tags:
   - Syntax
 aliases:
   - Callout Block on Obsidian
-status: Writting
+status: Writing
 ---
 
 > [!info]
