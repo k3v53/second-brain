@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3c6e231231ead0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminología Tech/Roles de Desarrollo de Software.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aliases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "Terminología Tech/Roles de Desarrollo de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "Terminología Tech/Roles de Desarrollo de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminología Tech/index.md"
+                "file": "Terminología Tech/Roles de Desarrollo de Software.md"
               }
             }
           },
@@ -170,10 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c96050dae5e53cd1",
+  "active": "af8327759b4d9d5a",
   "lastOpenFiles": [
-    "Terminología Tech/Team Leader (TL).md",
     "Terminología Tech/index.md",
+    "Terminología Tech/Roles de Desarrollo de Software.md",
+    "Terminología Tech/Team Leader (TL).md",
     "Linux/Running MS Office on Linux 2024.md",
     "Linux/Running iVMS-4200 On Linux.md",
     "Linux/Linux Mint Opinion.md",
@@ -204,7 +219,6 @@
     "Terminología Tech",
     "Untitled.canvas",
     "README.md",
-    "Fixes/Installing Nix Gaming.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",

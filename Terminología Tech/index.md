@@ -15,7 +15,7 @@ status: Investigating
 - **Producto**
 	- [[Product Manager (PM)]]
 - **Desarrollo de Software**
-	- ![[Team Leader (TL)]]
+	- [[Team Leader (TL)]]
 	- [[Front End Developer]]
 	- [[Back End Developer]]
 	- [[Full Stack Developer]]
