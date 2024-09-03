@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "91e7299c6f7b8920",
+            "id": "d215cc8b27cc8fbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Running iVMS-4200 On Linux.md",
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Running iVMS-4200 On Linux.md",
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Running iVMS-4200 On Linux.md",
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Running iVMS-4200 On Linux.md"
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md"
               }
             }
           },
@@ -181,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91e7299c6f7b8920",
+  "active": "d215cc8b27cc8fbc",
   "lastOpenFiles": [
-    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
     "Linux/Running iVMS-4200 On Linux.md",
+    "This Wiki Origin.md",
+    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
     "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/index.md",
     "Terminología Tech/Team Leader (TL).md",
     "index_es.md",
     "index.md",
     "Editor DashBoard.md",
-    "This Wiki Origin.md",
     "Templates/Spanish Page.md",
     "Templates/English Page.md",
     "Templates",
