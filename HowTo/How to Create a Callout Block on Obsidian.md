@@ -1,3 +1,11 @@
+---
+tags:
+  - English
+  - Obsidian
+aliases:
+  - Callout Block on Obsidian
+---
+
 > [!info]
 > Hello World!
 >```md
