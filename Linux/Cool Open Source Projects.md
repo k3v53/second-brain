@@ -6,6 +6,6 @@ This is a list of a lot of cool projects that I've found while surfing the web, 
 - [[Go Programming Language]]
 ## Linux Distros
 - [[NixOS]]
-- [[Linux Mint]]
+- [[Linux Mint Opinion]]
 - [[Zorin OS]]
 - [[Garuda Linux]]

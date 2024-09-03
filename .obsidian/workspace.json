@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editor DashBoard.md",
+                "file": "Linux/Linux Mint Opinion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c96050dae5e53cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminología Tech/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editor DashBoard.md",
+                "file": "Terminología Tech/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editor DashBoard.md",
+                "file": "Terminología Tech/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editor DashBoard.md"
+                "file": "Terminología Tech/index.md"
               }
             }
           },
@@ -157,26 +170,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d039143c8258c51a",
+  "active": "c96050dae5e53cd1",
   "lastOpenFiles": [
+    "Terminología Tech/Team Leader (TL).md",
+    "Terminología Tech/index.md",
+    "Linux/Running MS Office on Linux 2024.md",
+    "Linux/Running iVMS-4200 On Linux.md",
+    "Linux/Linux Mint Opinion.md",
+    "Linux/Linux Distros.md",
+    "Linux/Garuda Linux Opinion.md",
+    "Linux/How to Create a Simple Flatpak Package.md",
+    "Editor DashBoard.md",
     "This Wiki Origin.md",
     "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
-    "Editor DashBoard.md",
     "index.md",
-    "Linux/Running MS Office on Linux 2024.md",
     "Templates/Spanish Page.md",
-    "Linux/Linux Mint.md",
     "index_es.md",
     "Templates/English Page.md",
     "Linux/Configuring PipeWire Noise Suppresion.md",
-    "Linux/Running iVMS-4200 On Linux.md",
     "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
-    "Terminología Tech/index.md",
-    "Terminología Tech/Team Leader (TL).md",
     "Templates",
     "Linux/Untitled.md",
-    "Linux/How to Create a Simple Flatpak Package.md",
     "Linux/Cool Open Source Projects.md",
     "Misc",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
@@ -187,11 +202,9 @@
     "Screenshot test.md",
     "Linux",
     "Terminología Tech",
-    "Linux/Linux Distros.md",
     "Untitled.canvas",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
-    "Concepts/Other Sources.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
