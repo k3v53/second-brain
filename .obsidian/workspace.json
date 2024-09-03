@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f37f348af4b6c0bc",
+            "id": "bf166c59df86878e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "HowTo/How to Create a Callout Block on Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98a31ae42b3e362d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,12 +149,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,39 +166,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f37f348af4b6c0bc",
+  "active": "bf166c59df86878e",
   "lastOpenFiles": [
     "Terminología Tech/index.md",
-    "HowTo/How to Create a Callout Block on Obsidian.md",
-    "index_es.md",
-    "index.md",
-    "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
-    "HowTo/Purpose for the Alias Property on Obsidian.md",
-    "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/Team Leader (TL).md",
-    "Linux/How to Create a Simple Flatpak Package.md",
-    "Gaming",
-    "This Wiki Origin.md",
-    "HowTo",
-    "Screenshot test.md",
-    "Linux",
     "Terminología Tech",
-    "Linux/Linux Mint.md",
-    "Linux/Configuring PipeWire Noise Suppresion.md",
-    "Linux/Linux Distros.md",
     "Linux/Running MS Office on Linux 2024.md",
+    "Linux/Linux Mint.md",
+    "Linux/Linux Distros.md",
+    "Linux/How to Create a Simple Flatpak Package.md",
     "Linux/Cool Open Source Projects.md",
+    "Linux/Configuring PipeWire Noise Suppresion.md",
+    "Linux",
+    "HowTo/Purpose for the Alias Property on Obsidian.md",
+    "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
+    "HowTo/How to Create a Callout Block on Obsidian.md",
+    "HowTo",
+    "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
+    "Gaming",
+    "Screenshot test.md",
+    "Linux Mint.md",
+    "index.md",
+    "index_es.md",
+    "Configuring PipeWire Noise Suppresion.md",
+    "Linux Distros.md",
+    "Running MS Office on Linux 2024.md",
+    "Cool Open Source Projects.md",
+    "How to Create a Simple Flatpak Package.md",
+    "This Wiki Origin.md",
     "Untitled.canvas",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
     "Concepts/Other Sources.md",
     "conflict-files-obsidian-git.md",
-    "Concepts/Advanced/Nix Experimental Features.md",
-    "Concepts/Advanced/Flakes.md",
-    "Concepts/index.md",
-    "Problems/index.md",
-    "Getting Started/Setting up My First Config File.md",
-    "Fixes/Fix Nix Store Corruption.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
