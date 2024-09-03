@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Draft Spanish Page.md",
+                "file": "Misc/Como Aportar a la Wiki.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Draft Spanish Page.md",
+                "file": "Misc/Como Aportar a la Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Draft Spanish Page.md",
+                "file": "Misc/Como Aportar a la Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Draft Spanish Page.md"
+                "file": "Misc/Como Aportar a la Wiki.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "d3c6e231231ead0b",
   "lastOpenFiles": [
-    "Templates/Draft English Page.md",
     "Templates/Draft Spanish Page.md",
+    "Templates/Draft English Page.md",
     "Templates/English Page.md",
     "Misc/Como Aportar a la Wiki.md",
     "Terminología Tech/index.md",
