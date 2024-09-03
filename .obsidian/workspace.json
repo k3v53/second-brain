@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editor DashBoard.md",
+                "file": "Linux/Running iVMS-4200 On Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editor DashBoard.md",
+                "file": "Linux/Running iVMS-4200 On Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editor DashBoard.md",
+                "file": "Linux/Running iVMS-4200 On Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editor DashBoard.md"
+                "file": "Linux/Running iVMS-4200 On Linux.md"
               }
             }
           },
@@ -150,12 +150,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +169,14 @@
   },
   "active": "1be889b8047adbeb",
   "lastOpenFiles": [
-    "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
+    "Templates",
+    "Linux/Untitled.md",
+    "Linux/Running iVMS-4200 On Linux.md",
     "Editor DashBoard.md",
+    "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "This Wiki Origin.md",
     "index_es.md",
     "index.md",
-    "Linux/Running iVMS-4200 On Linux.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
     "Linux/How to Create a Simple Flatpak Package.md",
     "Linux/Running MS Office on Linux 2024.md",
@@ -200,8 +201,6 @@
     "Concepts/Other Sources.md",
     "Concepts/Advanced/Nix Experimental Features.md",
     "Concepts/Advanced/Flakes.md",
-    "Concepts/index.md",
-    "Problems/index.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
