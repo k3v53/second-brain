@@ -4,6 +4,7 @@ tags:
   - Español
 aliases:
   - ¡Bienvenido A Mi Cerebro!
+status: Finished
 ---
 ¡Hola Mundo!
 Este es un sitio web simple creado como un lugar central para guardar información aleatoria sobre computadoras, también contiene información en inglés.

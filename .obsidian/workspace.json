@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Editor DashBoard.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editor DashBoard.md",
+                "file": "This Wiki Origin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,12 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea8b7c826a141bb1",
+  "active": "1be889b8047adbeb",
   "lastOpenFiles": [
-    "HowTo/How to Create a Callout Block on Obsidian.md",
-    "index.md",
+    "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Editor DashBoard.md",
+    "This Wiki Origin.md",
+    "index_es.md",
+    "index.md",
     "Linux/Running iVMS-4200 On Linux.md",
+    "HowTo/How to Create a Callout Block on Obsidian.md",
     "Linux/How to Create a Simple Flatpak Package.md",
     "Linux/Running MS Office on Linux 2024.md",
     "Linux/Cool Open Source Projects.md",
@@ -184,11 +186,8 @@
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
     "conflict-files-obsidian-git.md",
     "Terminología Tech/index.md",
-    "index_es.md",
-    "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/Team Leader (TL).md",
     "Misc/Gaming",
-    "This Wiki Origin.md",
     "HowTo",
     "Screenshot test.md",
     "Linux",

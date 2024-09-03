@@ -4,4 +4,11 @@ tags:
   - Gaming
   - Forza-Horizon-4
   - 1050TI
+status: Investigating
 ---
+
+| Setting | Value |
+| ------- | ----- |
+|         |       |
+|         |       |
+|         |       |
