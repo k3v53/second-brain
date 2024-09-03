@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminología Tech/index.md",
+                "file": "HowTo/How to Create a Callout Block on Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminología Tech/index.md"
+                "file": "HowTo/How to Create a Callout Block on Obsidian.md"
               }
             }
           },
@@ -154,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be889b8047adbeb",
+  "active": "f37f348af4b6c0bc",
   "lastOpenFiles": [
+    "Terminología Tech/index.md",
+    "HowTo/How to Create a Callout Block on Obsidian.md",
     "index_es.md",
     "index.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
     "Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Terminología Tech/Team Leader (TL).md",
-    "Terminología Tech/index.md",
     "Linux/How to Create a Simple Flatpak Package.md",
     "Gaming",
     "This Wiki Origin.md",
@@ -186,7 +187,6 @@
     "Problems/index.md",
     "Getting Started/Setting up My First Config File.md",
     "Fixes/Fix Nix Store Corruption.md",
-    "Problems/NixOS Ping System Error.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
