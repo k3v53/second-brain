@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md",
+                "file": "Templates/Draft Spanish Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md",
+                "file": "Templates/Draft Spanish Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md",
+                "file": "Templates/Draft Spanish Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md"
+                "file": "Templates/Draft Spanish Page.md"
               }
             }
           },
@@ -164,10 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8eba09bf6a1bdc72",
+  "active": "d3c6e231231ead0b",
   "lastOpenFiles": [
-    "Terminología Tech/index.md",
+    "Templates/Draft English Page.md",
+    "Templates/Draft Spanish Page.md",
+    "Templates/English Page.md",
     "Misc/Como Aportar a la Wiki.md",
+    "Terminología Tech/index.md",
     "Editor DashBoard.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
     "Terminología Tech/Roles de Desarrollo de Software.md",
@@ -183,7 +186,6 @@
     "index.md",
     "Templates/Spanish Page.md",
     "index_es.md",
-    "Templates/English Page.md",
     "Linux/Configuring PipeWire Noise Suppresion.md",
     "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Templates",
@@ -192,10 +194,8 @@
     "Misc",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
     "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
-    "conflict-files-obsidian-git.md",
     "Misc/Gaming",
     "HowTo",
-    "Screenshot test.md",
     "Linux",
     "Terminología Tech",
     "Untitled.canvas",
