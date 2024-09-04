@@ -8,4 +8,4 @@ This is a list of a lot of cool projects that I've found while surfing the web, 
 - [[NixOS]]
 - [[Linux Mint Opinion]]
 - [[Zorin OS]]
-- [[Garuda Linux]]
+- [[Garuda Linux Opinion]]
