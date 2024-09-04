@@ -15,7 +15,7 @@ status: Backlog
 - **Producto**
 	- [[Product Manager (PM)]]
 - **Desarrollo de Software**
-	- [[Team Leader (TL)]]
+	- [[es/Terminología Tech/Team Leader (TL)]]
 	- [[Front End Developer]]
 	- [[Back End Developer]]
 	- [[Full Stack Developer]]
