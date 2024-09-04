@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Spanish Page.md",
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Spanish Page.md",
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Spanish Page.md",
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Spanish Page.md"
+                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "41e4d8b7812d5dc9",
   "lastOpenFiles": [
+    "Templates/Spanish Page.md",
     "Templates/Draft Spanish Page.md",
     "Templates/Draft English Page.md",
     "Templates/English Page.md",
-    "Templates/Spanish Page.md",
     "Misc/How Quartz Aliases Work.md",
     "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Editor DashBoard.md",
