@@ -2,11 +2,10 @@
 title: 
 aliases: 
 tags:
-  - Español
+  - English
+  - Game
 draft: false
 status: Backlog
 ---
-
-
 > [!todo]
 
