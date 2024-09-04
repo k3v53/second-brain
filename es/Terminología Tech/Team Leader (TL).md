@@ -1,8 +1,9 @@
 ---
 title: 
-aliases: 
+aliases: []
 tags:
   - Español
+  - Rol
 draft: false
 status: PseudoFinished
 ---
