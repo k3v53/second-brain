@@ -11,13 +11,8 @@
             "id": "41e4d8b7812d5dc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,28 +157,28 @@
   },
   "active": "41e4d8b7812d5dc9",
   "lastOpenFiles": [
+    "index_es.md",
+    "Misc/Como Aportar a la Wiki.md",
+    "Editor DashBoard.md",
+    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
     "Templates/Spanish Page.md",
     "Templates/Draft Spanish Page.md",
     "Templates/Draft English Page.md",
     "Templates/English Page.md",
     "Misc/How Quartz Aliases Work.md",
     "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
-    "Editor DashBoard.md",
     "Terminología Tech/Team Leader (TL).md",
     "Terminología Tech/index.md",
-    "Misc/Como Aportar a la Wiki.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
     "Terminología Tech/Roles de Desarrollo de Software.md",
     "Linux/Linux Mint Opinion.md",
     "Linux/Garuda Linux Opinion.md",
-    "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
     "Linux/Running MS Office on Linux 2024.md",
     "Linux/Running iVMS-4200 On Linux.md",
     "Linux/Linux Distros.md",
     "Linux/How to Create a Simple Flatpak Package.md",
     "This Wiki Origin.md",
     "index.md",
-    "index_es.md",
     "Linux/Configuring PipeWire Noise Suppresion.md",
     "Templates",
     "Linux/Untitled.md",
