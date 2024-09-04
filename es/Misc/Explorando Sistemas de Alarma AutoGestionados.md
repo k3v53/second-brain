@@ -4,9 +4,8 @@ aliases:
 tags:
   - Español
 draft: false
-status: Backlog
+status: Investigating
 ---
-
-
 > [!todo]
 
+Actualmente estoy echando un ojo a las hybrid pro de hikvision
