@@ -3,6 +3,10 @@ title:
 aliases: 
 tags:
   - English
+  - Wine
+  - Linux
+  - CCTV
+  - Hikvision
 finished: false
 status: Investigating
 ---
