@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42a0adebbca66d94",
+        "id": "333e05a2f71374d2",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c6e231231ead0b",
+            "id": "41e4d8b7812d5dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md",
+                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md",
+                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md",
+                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Como Aportar a la Wiki.md"
+                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md"
               }
             }
           },
@@ -164,20 +164,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3c6e231231ead0b",
+  "active": "41e4d8b7812d5dc9",
   "lastOpenFiles": [
+    "Editor DashBoard.md",
+    "Terminología Tech/Team Leader (TL).md",
+    "Terminología Tech/index.md",
+    "Misc/Como Aportar a la Wiki.md",
     "Templates/Draft Spanish Page.md",
     "Templates/Draft English Page.md",
     "Templates/English Page.md",
-    "Misc/Como Aportar a la Wiki.md",
-    "Terminología Tech/index.md",
-    "Editor DashBoard.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
     "Terminología Tech/Roles de Desarrollo de Software.md",
     "Linux/Linux Mint Opinion.md",
     "Linux/Garuda Linux Opinion.md",
     "Linux/Fixing Login Error In iVMS-4200 Wine Linux.md",
-    "Terminología Tech/Team Leader (TL).md",
     "Linux/Running MS Office on Linux 2024.md",
     "Linux/Running iVMS-4200 On Linux.md",
     "Linux/Linux Distros.md",
