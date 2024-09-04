@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
+                "file": "Templates/Spanish Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aliases",
+                "query": "tag:Quartz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
+                "file": "Templates/Spanish Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
+                "file": "Templates/Spanish Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md"
+                "file": "Templates/Spanish Page.md"
               }
             }
           },
@@ -166,13 +166,16 @@
   },
   "active": "41e4d8b7812d5dc9",
   "lastOpenFiles": [
+    "Templates/Draft Spanish Page.md",
+    "Templates/Draft English Page.md",
+    "Templates/English Page.md",
+    "Templates/Spanish Page.md",
+    "Misc/How Quartz Aliases Work.md",
+    "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Editor DashBoard.md",
     "Terminología Tech/Team Leader (TL).md",
     "Terminología Tech/index.md",
     "Misc/Como Aportar a la Wiki.md",
-    "Templates/Draft Spanish Page.md",
-    "Templates/Draft English Page.md",
-    "Templates/English Page.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
     "Terminología Tech/Roles de Desarrollo de Software.md",
     "Linux/Linux Mint Opinion.md",
@@ -184,16 +187,13 @@
     "Linux/How to Create a Simple Flatpak Package.md",
     "This Wiki Origin.md",
     "index.md",
-    "Templates/Spanish Page.md",
     "index_es.md",
     "Linux/Configuring PipeWire Noise Suppresion.md",
-    "Misc/Gaming/Forza Horizon 4 Optimized Settings for Nvidia 1050TI.md",
     "Templates",
     "Linux/Untitled.md",
     "Linux/Cool Open Source Projects.md",
     "Misc",
     "HowTo/Purpose for the Alias Property on Obsidian.md",
-    "HowTo/How to Create a Toggle List in Obsidian and Markdown.md",
     "Misc/Gaming",
     "HowTo",
     "Linux",
