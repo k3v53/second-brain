@@ -5,6 +5,8 @@ tags:
 aliases:
   - ¡Bienvenido A Mi Cerebro!
   - es
+  - ./es
+  - ./index_es
 status: Finished
 ---
 [[index|In English 🇺🇸]]
