@@ -11,6 +11,7 @@ draft: false
 status: Finished
 ---
 Un **sensor infrarrojo pasivo** ( o **sensor PIR**) es un sensor electrónico que mide la luz infrarroja (IR) radiada de los objetos situados en su campo de visión. Se utilizan principalmente en los detectores de movimiento basados en PIR.
+^desc
 ## Principios de funcionamiento
 
 Todos los objetos con una temperatura por encima del cero absoluto emiten calor. Por lo general, esta radiación es invisible para el ojo humano, ya que irradia en longitudes de onda infrarrojas, pero puede ser detectado por dispositivos electrónicos diseñados para tal propósito.
