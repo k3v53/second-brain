@@ -1,7 +1,7 @@
 ---
 title: 
 aliases:
-  - /Alarmas
+  - ../../Alarmas
 tags:
   - Español
 draft: false
