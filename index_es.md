@@ -7,6 +7,7 @@ aliases:
   - es
   - ./es
   - ./index_es
+  - es/
 status: Finished
 ---
 [[index|In English 🇺🇸]]

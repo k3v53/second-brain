@@ -7,6 +7,7 @@ aliases:
   - Welcome To My Brain!
   - en
   - ./en
+  - en/
 status: Finished
 ---
 [[index_es|En Español 🇦🇷]]
