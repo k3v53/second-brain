@@ -1,6 +1,7 @@
 ---
 title: 
-aliases: 
+aliases:
+  - /Alarmas
 tags:
   - Español
 draft: false
