@@ -11,4 +11,4 @@ status: Backlog
 > [!todo]
 
 # Sources
-- 
+- https://github.com/lutris/lutris/blob/master/docs/installers.rst
