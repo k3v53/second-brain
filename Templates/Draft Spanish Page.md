@@ -6,9 +6,7 @@ tags:
 draft: true
 status: Backlog
 ---
-
-
-> [!todo]
+> [!todo] Pendiente
 
 # Fuentes
 - 

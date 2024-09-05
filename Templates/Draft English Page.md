@@ -6,8 +6,6 @@ tags:
 draft: true
 status: Backlog
 ---
-
-
 > [!todo]
 
 # Sources
