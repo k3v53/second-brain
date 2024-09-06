@@ -1,8 +1,6 @@
 ---
 title: 
-aliases:
-  - Sensor Fotoeléctrico
-  - Sensor Óptico
+aliases: []
 tags:
   - Español
   - Sensor

@@ -1,6 +1,7 @@
 ---
 title: 
-aliases: 
+aliases:
+  - Sensor óptico
 tags:
   - Español
 draft: false
