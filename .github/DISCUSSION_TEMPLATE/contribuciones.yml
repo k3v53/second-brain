@@ -9,6 +9,13 @@ body:
         - Sugerencia de Edición
         - Sugerencia de Contenido
         - Otro
+  - type: markdown
+    attributes:
+      value: |
+        - Página Completa: Contenido listo para publicar.
+        - Sugerencia de Edición: Sugerir cambios a contenido ya existente (indicar en el campo contenido la página que deseas sugerir su edición).
+        - Sugerencia de Contenido: Sugerir un nuevo contenido para escribir, detallar en el campo contenido el tópico que te interesa sugerir.
+        - Otro: Otro tipo de contribución, detallar en el campo contenido que tipo de contribución es.
     validations:
       required: true
   - type: input
