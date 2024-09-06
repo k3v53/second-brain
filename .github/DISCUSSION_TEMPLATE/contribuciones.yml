@@ -1,0 +1,32 @@
+body:
+  - type: dropdown
+    id: contribution_type
+    attributes:
+      label: Tipo de contribución
+      description: ¿Que tipo de contribución vas a realizar?
+      options:
+        - Página Completa
+        - Sugerencia de Edición
+        - Sugerencia de Contenido
+        - Otro
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Que etiquetas debería llevar el aporte
+      placeholder: Español, Linux, Wine, ...
+  - type: textarea
+    id: content
+    attributes:
+      label: Contenido
+      placeholder: "Contenido de mi contribución..."
+  - type: textarea
+    id: sources
+    attributes:
+      label: Fuentes
+      description: Lista las fuentes de donde sacaste la información
+      value: |
+          # Fuentes
+          -
