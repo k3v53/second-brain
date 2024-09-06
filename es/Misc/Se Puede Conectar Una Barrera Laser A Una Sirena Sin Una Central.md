@@ -3,6 +3,7 @@ title:
 aliases: 
 tags:
   - Español
+  - Pregunta
 draft: false
 status: Investigating
 ---
