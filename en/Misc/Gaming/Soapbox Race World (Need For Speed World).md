@@ -5,7 +5,7 @@ tags:
   - English
   - Game
 draft: false
-status: Finished
+status: PseudoFinished
 ---
 > [!todo]
 
