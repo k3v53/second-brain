@@ -7,11 +7,11 @@ tags:
 draft: true
 status: Backlog
 ---
-| Nombre | Escala          | Géneros |
-| ------ | --------------- | ------- |
-|        | I - IV - V - I  |         |
-|        | I - VI - IV - V |         |
-|        |                 |         |
+| Nombre | Escala          |
+| ------ | --------------- |
+|        | I - IV - V - I  |
+|        | I - VI - IV - V |
+|        |                 |
 
 # Fuentes
 - 
