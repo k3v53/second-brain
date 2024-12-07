@@ -7,6 +7,7 @@ tags:
 draft: true
 status: Backlog
 ---
+
 | Nombre | Escala          |
 | ------ | --------------- |
 |        | I - IV - V - I  |
