@@ -166,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf166c59df86878e",
+  "active": "1be889b8047adbeb",
   "lastOpenFiles": [
+    "Untitled",
     "index.md",
     "index_es.md",
     "HowTo/How to Create a Callout Block on Obsidian.md",
@@ -198,7 +199,6 @@
     "README.md",
     "Fixes/Installing Nix Gaming.md",
     "Concepts/Other Sources.md",
-    "conflict-files-obsidian-git.md",
     "quartz/quartz.layout.ts",
     "Getting Started/Setting Up Our NixOS",
     "quartz/quartz.config.ts",
