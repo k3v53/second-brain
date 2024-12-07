@@ -14,7 +14,7 @@ const config: QuartzConfig = {
 		analytics: {},
 		locale: 'en-US',
 		baseUrl: 'brain.kevin.net.ar',
-		ignorePatterns: ['private', 'templates', '.obsidian', "readme"],
+		ignorePatterns: ['private', 'Templates', '.obsidian', "readme"],
 		defaultDateType: 'modified',
 		theme: {
 			fontOrigin: 'googleFonts',
@@ -52,6 +52,7 @@ const config: QuartzConfig = {
 	},
 	plugins: {
 		transformers: [
+			Plugin.HardLineBreaks(),
 			Plugin.FrontMatter(),
 			Plugin.CreatedModifiedDate({
 				priority: ['frontmatter', 'filesystem'],

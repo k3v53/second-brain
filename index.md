@@ -5,9 +5,13 @@ tags:
 spanish_post: index_es
 aliases:
   - Welcome To My Brain!
-finished:
+  - en
+  - ./en
+  - en/
+status: Finished
 ---
 [[index_es|En Español 🇦🇷]]
+
 Hello World!
 This is a simple website created as a central place to store random computers information, it may contain info in Spanish too.
 Explore:
