@@ -5,7 +5,7 @@ tags:
   - Español
   - Pregunta
 draft: false
-status: Investigating
+status: Finished
 ---
 Se puede conectar a una [[Sirena (Sistemas de Alarma)|Sirena]] sin una central siempre y cuando tengas una fuente de alimentación correspondiente al voltaje de la sirena.
 ^desc
