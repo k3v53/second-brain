@@ -5,7 +5,7 @@ tags:
   - Español
   - Escalas-Musicales
 draft: true
-status: Backlog
+status: Writing
 ---
 
 | Nombre | Escala          |

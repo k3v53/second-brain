@@ -6,7 +6,7 @@ tags:
   - Español
   - Sistemas-De-Alarma
 draft: false
-status: Investigating
+status: Abandoned
 ---
 > [!todo] Pendiente
 

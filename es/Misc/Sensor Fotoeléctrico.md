@@ -5,7 +5,7 @@ aliases:
 tags:
   - Español
 draft: false
-status: Backlog
+status: Finished
 ---
  Un sensor fotoeléctrico (o sensor óptico) es un dispositivo que utiliza la energía de la luz para detectar la presencia o ausencia de objetos o materiales. Funciona convirtiendo la luz en una señal eléctrica que puede ser interpretada y utilizada por un sistema de control.
 
