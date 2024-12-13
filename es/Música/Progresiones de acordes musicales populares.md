@@ -4,6 +4,7 @@ aliases:
 tags:
   - Español
   - Escalas-Musicales
+  - Musica
 draft: true
 status: Writing
 ---
@@ -18,4 +19,4 @@ status: Writing
 | Jazz       | ii - V - I      |
 
 # Fuentes
-- 
+- Analizando las progresiones de las canciones populares
