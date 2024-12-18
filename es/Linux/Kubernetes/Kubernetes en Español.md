@@ -12,6 +12,7 @@ status: Investigating
 
 Kubernetes (también conocido como K8s) es una plataforma open source para la [[Orquestador de Contenedores|orquestación de contenedores]] y microservicios. Fue originalmente diseñado por Google y ahora está mantenido por una comunidad global de contribuyentes.
 ^desc
+
 Existen variantes que integran fundamentalmente el mismo concepto de kubernetes pero de diferentes formas como minikube, k3s, etc. La mayoría de estas soluciones tienen paridad de features con el kubernetes original pero modifican el funcionamiento para hacerlo más liviano, más completo, mejor integración con windows, etc.
 ### Características principales
 
