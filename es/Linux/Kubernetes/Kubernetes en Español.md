@@ -52,6 +52,8 @@ Kubernetes tiene un ecosistema extenso con herramientas adicionales como:
 Kubernetes es ampliamente utilizado por empresas como Google, Microsoft, Amazon, Apple, Meta y muchas otras. Es uno de los sistemas de software más utilizados en el mundo.
 
 En resumen, Kubernetes es una plataforma poderosa para gestionar aplicaciones contenedorizadas de forma eficiente y escalable, permitiendo a las organizaciones aprovechar los beneficios de la nube y la microservicios.
+
+Para aquellos lectores que llegaron hasta aquí, felicitaciones por el interés por kubernetes, a partir de aquí vamos a leer sobre conceptos más avanzados del tema y, próximamente una guía para principiantes de kubernetes.
 ## Cargas de Trabajo (Workloads)
 Un workload es una aplicación o servicio que se ejecuta en Kubernetes. Es un nivel más alto de abstracción que agrupa uno o más contenedores y define cómo deben ser empaquetados, desplegados, gestionados y escalados.
 Cuando se crea un workload, define un estado deseado (por ejemplo, el número de réplicas de pods que deben estar ejecutándose). Kubernetes monitorea el estado actual del clúster y compara con el deseado. Si no coinciden, el controlador toma acción para acercar el estado real al deseado.
