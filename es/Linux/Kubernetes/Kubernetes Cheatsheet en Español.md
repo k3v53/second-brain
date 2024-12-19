@@ -15,3 +15,7 @@ status: Investigating
 # Fuentes
 
 ![[Kubernetes en Español#Tipos de Workloads]]
+
+## Varios
+- Ubicación DB: `/var/lib/rancher/k3s/server/db`
+- 
