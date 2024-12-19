@@ -67,3 +67,6 @@ Los workloads manejan operaciones como escalado, actualizaciones sucesivas y aut
 - CronJob: Para tareas que deben completarse de manera cronológica.
 
 
+## Servicios (Services)
+
+Pendiente...
