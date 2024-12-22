@@ -7,7 +7,7 @@ tags:
   - Year-2024
   - CCTV
   - Hikvision
-status: Backlog
+status: PseudoFinished
 aliases:
   - Running iVMS-4200 With Wine
 title: 

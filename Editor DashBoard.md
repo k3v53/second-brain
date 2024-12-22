@@ -2,6 +2,7 @@
 draft: true
 tags:
   - English
+status: Finished
 ---
 # In Progress
 
@@ -32,6 +33,7 @@ SORT file.mtime DESC
 > 1. Finished
 > 	1. Finished
 > 	2. PseudoFinished
+> 	3. Abandoned
 > 2. In Progress
 > 	1. Writing
 > 	2. Investigating

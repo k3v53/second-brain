@@ -1,12 +1,12 @@
 ---
 title: 
-aliases: []
+aliases: 
 tags:
   - Español
   - Sensor
   - Sistemas-De-Alarma
 draft: false
-status: Writing
+status: Finished
 ---
 > [!tip] Variante de [[Sensor Fotoeléctrico]]
  
