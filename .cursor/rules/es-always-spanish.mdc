@@ -1,0 +1,5 @@
+---
+description: When writing information in spanish
+globs: es/**
+---
+Every piece of information that you write inside "es/" should be in spanish.

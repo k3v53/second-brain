@@ -1,0 +1,5 @@
+---
+description: When writing information in english
+globs: en/**
+---
+Every piece of information that you write inside "en/" should be in english.
