@@ -1,0 +1,5 @@
+---
+description: When writing new .md notes
+globs: *.md
+---
+Every note should contain the obsidian markdown format.
